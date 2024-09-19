@@ -4,6 +4,7 @@
     "Code Quality Pipeline:10933727119:build"
   ],
   "unity-license-tests": [
-    "Code Quality Pipeline:10933727119:run"
+    "Code Quality Pipeline:10933727119:run",
+    "Code Quality Pipeline:10933724325:run"
   ]
 }
