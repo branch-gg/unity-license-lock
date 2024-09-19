@@ -3,6 +3,7 @@
     "Game Release Pipeline:10934288880:build"
   ],
   "unity-license-tests": [
-    "Code Quality Pipeline:10934289096:run"
+    "Code Quality Pipeline:10934289096:run",
+    "Game Release Pipeline:10934288880:run"
   ]
 }
