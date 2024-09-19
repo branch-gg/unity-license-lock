@@ -3,7 +3,8 @@
     "Code Quality Pipeline:10941204905:build"
   ],
   "unity-license-tests": [
-    "Code Quality Pipeline:10941199420:run"
+    "Code Quality Pipeline:10941199420:run",
+    "Code Quality Pipeline:10941196285:run"
   ],
   "unity-license-ios-build": [
     "Code Quality Pipeline:10941196285:build"
