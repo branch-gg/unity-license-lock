@@ -1,7 +1,4 @@
 {
-  "unity-license-tests": [
-    "Code Quality Pipeline:10952941090:run"
-  ],
   "unity-license-liveconfig": [
     "Game Release Pipeline:10953061123:build",
     "Code Quality Pipeline:10953056840:build"
