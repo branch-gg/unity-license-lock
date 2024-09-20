@@ -1,5 +1,6 @@
 {
   "unity-license-ios-build": [
-    "Game Release Pipeline:10952304275:build"
+    "Game Release Pipeline:10952304275:build",
+    "Code Quality Pipeline:10952470876:build"
   ]
 }
