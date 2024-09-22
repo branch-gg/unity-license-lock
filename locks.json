@@ -1,5 +1,8 @@
 {
   "unity-license-ios-build": [
     "Game Release Pipeline:10977306745:build"
+  ],
+  "unity-license-tests": [
+    "Game Release Pipeline:10977306745:run"
   ]
 }
