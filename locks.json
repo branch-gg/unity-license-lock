@@ -4,8 +4,5 @@
   ],
   "unity-license-tests": [
     "Code Quality Pipeline:11020095157:run"
-  ],
-  "unity-license-liveconfig": [
-    "Code Quality Pipeline:11020224854:build"
   ]
 }
