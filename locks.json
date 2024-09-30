@@ -1,8 +1,5 @@
 {
   "unity-license-tests": [
     "Game Release Pipeline:11105449745:run"
-  ],
-  "unity-license-ios-build": [
-    "Code Quality Pipeline:11105454817:build"
   ]
 }
