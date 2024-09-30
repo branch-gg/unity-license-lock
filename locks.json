@@ -2,9 +2,6 @@
   "unity-license-tests": [
     "Code Quality Pipeline:11115347783:run"
   ],
-  "unity-license-ios-build": [
-    "Code Quality Pipeline:11115347783:build"
-  ],
   "unity-license-liveconfig": [
     "Code Quality Pipeline:11115483729:build"
   ]
