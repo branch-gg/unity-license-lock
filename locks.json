@@ -1,5 +1,8 @@
 {
   "unity-license-tests": [
     "Code Quality Pipeline:11396795745:run"
+  ],
+  "unity-license-liveconfig": [
+    "Code Quality Pipeline:11396984661:build"
   ]
 }
