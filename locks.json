@@ -1,5 +1,8 @@
 {
   "unity-license-tests": [
     "Code Quality Pipeline:11448813004:run"
+  ],
+  "unity-license-ios-build": [
+    "Code Quality Pipeline:11448813004:build"
   ]
 }
