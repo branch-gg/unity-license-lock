@@ -3,6 +3,7 @@
     "Game Release Pipeline:11472012387:run"
   ],
   "unity-license-ios-build": [
-    "Game Release Pipeline:11472012387:build"
+    "Game Release Pipeline:11472012387:build",
+    "Code Quality Pipeline:11472054126:build"
   ]
 }
