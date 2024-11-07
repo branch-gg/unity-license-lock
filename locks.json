@@ -1,5 +1,6 @@
 {
   "unity-license-liveconfig": [
-    "Game Release Pipeline:11723384537:build"
+    "Game Release Pipeline:11723384537:build",
+    "Code Quality Pipeline:11723398711:build"
   ]
 }
