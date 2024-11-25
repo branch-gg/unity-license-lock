@@ -1,5 +1,8 @@
 {
   "unity-license-ios-build": [
     "Code Quality Pipeline:12015466250:build"
+  ],
+  "unity-license-liveconfig": [
+    "Game Release Pipeline:12018658767:build"
   ]
 }
