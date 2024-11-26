@@ -2,5 +2,8 @@
   "unity-license-ios-build": [
     "Code Quality Pipeline:12015466250:build",
     "Code Quality Pipeline:12027188818:build"
+  ],
+  "unity-license-tests": [
+    "Code Quality Pipeline:12027188818:run"
   ]
 }
