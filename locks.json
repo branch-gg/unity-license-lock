@@ -3,9 +3,6 @@
     "Code Quality Pipeline:12038897483:build",
     "Code Quality Pipeline:12043428451:build"
   ],
-  "unity-license-liveconfig": [
-    "Code Quality Pipeline:12043452750:build"
-  ],
   "unity-license-tests": [
     "Code Quality Pipeline:12043428451:run"
   ]
