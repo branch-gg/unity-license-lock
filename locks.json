@@ -1,5 +1,6 @@
 {
   "unity-license-tests": [
-    "Game Release Pipeline:12124738255:run"
+    "Game Release Pipeline:12124738255:run",
+    "WebGL App Release Pipeline:12125927043:build"
   ]
 }
