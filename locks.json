@@ -1,5 +1,8 @@
 {
   "unity-license-liveconfig": [
     "Game Release Pipeline:12132608468:build"
+  ],
+  "unity-license-tests": [
+    "WebGL App Release Pipeline:12132608466:build"
   ]
 }
