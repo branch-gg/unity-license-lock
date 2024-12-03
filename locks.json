@@ -3,6 +3,7 @@
     "Game Release Pipeline:12132608468:run"
   ],
   "unity-license-liveconfig": [
-    "Code Quality Pipeline:12132955885:build"
+    "Code Quality Pipeline:12132955885:build",
+    "Code Quality Pipeline:12132955985:build"
   ]
 }
