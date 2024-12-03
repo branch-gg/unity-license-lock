@@ -3,6 +3,7 @@
     "WebGL App Release Pipeline:12147609589:build"
   ],
   "unity-license-ios-build": [
-    "Game Release Pipeline:12147609594:build"
+    "Game Release Pipeline:12147609594:build",
+    "Code Quality Pipeline:12147630858:build"
   ]
 }
