@@ -2,9 +2,6 @@
   "unity-license-tests": [
     "Binary Release Pipeline:12171322318:run"
   ],
-  "unity-license-1": [
-    "Binary Release Pipeline:12171322318:build"
-  ],
   "unity-license-liveconfig": [
     "Code Quality Pipeline:12171523019:build"
   ]
