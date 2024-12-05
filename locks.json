@@ -7,6 +7,7 @@
     "Binary Release Pipeline:12171322318:run"
   ],
   "unity-license-1": [
-    "Binary Release Pipeline:12171322318:build"
+    "Binary Release Pipeline:12171322318:build",
+    "Code Quality Pipeline:12171322660:build"
   ]
 }
