@@ -5,5 +5,8 @@
   ],
   "unity-license-tests": [
     "Game Release Pipeline:12172095571:run"
+  ],
+  "unity-license-liveconfig": [
+    "Binary Release Pipeline:12172325278:build"
   ]
 }
