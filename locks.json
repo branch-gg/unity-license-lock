@@ -3,9 +3,6 @@
     "Binary Release Pipeline:12171756959:run",
     "WebGL App Release Pipeline:12172095563:build"
   ],
-  "unity-license-liveconfig": [
-    "Code Quality Pipeline:12172100393:build"
-  ],
   "unity-license-ios-build": [
     "Game Release Pipeline:12172095571:build"
   ]
