@@ -3,7 +3,6 @@
     "Live Config Release Pipeline:12185835302:run"
   ],
   "unity-license-1": [
-    "Live Config Release Pipeline:12185835302:build",
     "Code Quality Pipeline:12185836150:build"
   ]
 }
