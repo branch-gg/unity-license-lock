@@ -6,6 +6,7 @@
     "Game Release Pipeline:12172095571:run"
   ],
   "unity-license-liveconfig": [
-    "Binary Release Pipeline:12172348093:build"
+    "Binary Release Pipeline:12172348093:build",
+    "Live Config Release Pipeline:12172348089:build"
   ]
 }
