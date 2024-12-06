@@ -10,6 +10,7 @@
     "Binary Release Pipeline:12192239031:run"
   ],
   "unity-license-ios-build": [
-    "Binary Release Pipeline:12192239031:build"
+    "Binary Release Pipeline:12192239031:build",
+    "Live Config Release Pipeline:12192239026:build"
   ]
 }
