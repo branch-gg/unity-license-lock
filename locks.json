@@ -4,5 +4,8 @@
   ],
   "unity-license-1": [
     "Binary Release Pipeline:12216261241:build"
+  ],
+  "unity-license-tests": [
+    "Binary Release Pipeline:12216261241:run"
   ]
 }
