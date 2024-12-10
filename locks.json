@@ -6,7 +6,9 @@
     "Binary Release Pipeline:12246142861:build",
     "Code Quality Pipeline:12246144346:build"
   ],
-  "unity-license-tests": [],
+  "unity-license-tests": [
+    "Live Config Release Pipeline:12246142867:run"
+  ],
   "unity-license-liveconfig": [
     "Code Quality Pipeline:12246560916:build"
   ]
