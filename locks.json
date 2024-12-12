@@ -3,7 +3,6 @@
     "Code Quality Pipeline:12301206316:build"
   ],
   "unity-license-tests": [
-    "Code Quality Pipeline:12301206316:run",
     "WebGL App Release Pipeline:12301585913:build"
   ],
   "unity-license-liveconfig": [
