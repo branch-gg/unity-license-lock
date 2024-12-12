@@ -5,5 +5,8 @@
   "unity-license-liveconfig": [
     "Code Quality Pipeline:12301659208:build",
     "Code Quality Pipeline:12301739521:build"
+  ],
+  "unity-license-ios-build": [
+    "Live Config Release Pipeline:12301585921:build"
   ]
 }
