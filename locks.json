@@ -6,6 +6,7 @@
     "WebGL App Release Pipeline:12310792871:build"
   ],
   "unity-license-ios-build": [
-    "Binary Release Pipeline:12310792881:build"
+    "Binary Release Pipeline:12310792881:build",
+    "Live Config Release Pipeline:12310792872:build"
   ]
 }
