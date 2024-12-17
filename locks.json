@@ -1,7 +1,4 @@
 {
-  "unity-license-tests": [
-    "WebGL App Release Pipeline:12379968499:build"
-  ],
   "unity-license-ios-build": [
     "Live Config Release Pipeline:12379968492:build",
     "Binary Release Pipeline:12379968495:build"
