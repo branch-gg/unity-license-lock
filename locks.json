@@ -3,9 +3,6 @@
     "Binary Release Pipeline:12438141766:build",
     "Live Config Release Pipeline:12438141767:build"
   ],
-  "unity-license-ios-build": [
-    "Live Config Release Pipeline:12438141767:build"
-  ],
   "unity-license-tests": [
     "Code Quality Pipeline:12437145852:run"
   ]
