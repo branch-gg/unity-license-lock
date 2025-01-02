@@ -2,9 +2,6 @@
   "unity-license-1": [
     "Code Quality Pipeline:12584659103:build"
   ],
-  "unity-license-ios-build": [
-    "Code Quality Pipeline:12584659103:build"
-  ],
   "unity-license-tests": [
     "Binary Release Pipeline:12584508908:run"
   ]
