@@ -4,6 +4,7 @@
     "WebGL App Release Pipeline:12587081827:build"
   ],
   "unity-license-liveconfig": [
-    "Live Config Release Pipeline:12587081828:build"
+    "Live Config Release Pipeline:12587081828:build",
+    "Binary Release Pipeline:12587081830:build"
   ]
 }
