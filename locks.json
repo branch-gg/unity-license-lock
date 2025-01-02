@@ -1,7 +1,6 @@
 {
   "unity-license-1": [
-    "Binary Release Pipeline:12589804001:build",
-    "Live Config Release Pipeline:12589803998:build"
+    "Binary Release Pipeline:12589804001:build"
   ],
   "unity-license-tests": [
     "Live Config Release Pipeline:12589803998:run"
