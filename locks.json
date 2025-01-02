@@ -3,9 +3,6 @@
     "Binary Release Pipeline:12589804001:run",
     "Code Quality Pipeline:12590180127:build"
   ],
-  "unity-license-ios-build": [
-    "Code Quality Pipeline:12590180127:build"
-  ],
   "unity-license-1": [
     "Code Quality Pipeline:12590180127:build"
   ]
