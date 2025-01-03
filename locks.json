@@ -1,6 +1,7 @@
 {
   "unity-license-tests": [
-    "Code Quality Pipeline:12592464830:run"
+    "Code Quality Pipeline:12592464830:run",
+    "Code Quality Pipeline:12592464830:build"
   ],
   "unity-license-1": [
     "Code Quality Pipeline:12592464830:build"
