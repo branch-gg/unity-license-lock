@@ -9,6 +9,7 @@
     "Code Quality Pipeline:12603523996:run"
   ],
   "unity-license-liveconfig": [
-    "Binary Release Pipeline:12603723344:build"
+    "Binary Release Pipeline:12603723344:build",
+    "Live Config Release Pipeline:12603723345:build"
   ]
 }
