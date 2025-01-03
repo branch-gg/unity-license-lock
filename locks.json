@@ -3,8 +3,7 @@
     "Code Quality Pipeline:12590992068:build"
   ],
   "unity-license-tests": [
-    "Binary Release Pipeline:12590809802:run",
-    "Code Quality Pipeline:12590963685:build"
+    "Binary Release Pipeline:12590809802:run"
   ],
   "unity-license-1": [
     "Code Quality Pipeline:12590992068:build"
