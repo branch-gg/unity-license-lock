@@ -8,7 +8,8 @@
     "Binary Release Pipeline:12590809802:build"
   ],
   "unity-license-ios-build": [
-    "Binary Release Pipeline:12590809802:build"
+    "Binary Release Pipeline:12590809802:build",
+    "Code Quality Pipeline:12590864827:build"
   ],
   "unity-license-tests": [
     "Binary Release Pipeline:12590809802:run"
