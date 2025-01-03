@@ -9,5 +9,8 @@
   ],
   "unity-license-liveops": [
     "Live Ops Data Release Pipeline:12605354986:build"
+  ],
+  "unity-license-tests": [
+    "Live Config Release Pipeline:12605132857:run"
   ]
 }
