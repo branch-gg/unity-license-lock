@@ -2,5 +2,8 @@
   "unity-license-tests": [
     "Live Config Release Pipeline:12599484592:run",
     "Code Quality Pipeline:12599942954:build"
+  ],
+  "unity-license-1": [
+    "Code Quality Pipeline:12599942954:build"
   ]
 }
