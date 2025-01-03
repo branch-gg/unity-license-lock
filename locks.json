@@ -9,5 +9,8 @@
   ],
   "unity-license-liveops": [
     "Live Ops Data Release Pipeline:12605244958:build"
+  ],
+  "unity-license-ios-build": [
+    "Binary Release Pipeline:12605132852:build"
   ]
 }
