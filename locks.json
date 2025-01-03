@@ -1,7 +1,4 @@
 {
-  "unity-license-tests": [
-    "Code Quality Pipeline:12601985775:run"
-  ],
   "unity-license-liveops": [
     "Live Ops Data Release Pipeline:12603032069:build"
   ]
