@@ -1,5 +1,8 @@
 {
   "unity-license-tests": [
     "WebGL App Release Pipeline:12638139787:build"
+  ],
+  "unity-license-liveconfig": [
+    "Binary Release Pipeline:12638139783:build"
   ]
 }
