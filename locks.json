@@ -1,6 +1,7 @@
 {
   "unity-license-liveconfig": [
-    "Binary Release Pipeline:12644048598:build"
+    "Binary Release Pipeline:12644048598:build",
+    "Live Config Release Pipeline:12644048595:build"
   ],
   "unity-license-liveops": [
     "Live Ops Data Release Pipeline:12644048601:build"
