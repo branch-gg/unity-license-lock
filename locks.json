@@ -1,5 +1,8 @@
 {
   "unity-license-liveconfig": [
     "Live Config Release Pipeline:12721305204:build"
+  ],
+  "unity-license-liveops": [
+    "Live Ops Data Release Pipeline:12721305199:build"
   ]
 }
