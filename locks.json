@@ -3,6 +3,7 @@
     "Live Ops Data Release Pipeline:12757882979:build"
   ],
   "unity-license-liveconfig": [
-    "Binary Release Pipeline:12757882972:build"
+    "Binary Release Pipeline:12757882972:build",
+    "Live Config Release Pipeline:12757882980:build"
   ]
 }
