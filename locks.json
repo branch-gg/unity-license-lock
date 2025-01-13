@@ -4,5 +4,8 @@
   ],
   "unity-license-ios-build": [
     "Binary Release Pipeline:12755106042:build"
+  ],
+  "unity-license-tests": [
+    "Binary Release Pipeline:12755106042:run"
   ]
 }
